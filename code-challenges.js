@@ -117,6 +117,11 @@ for(let i = 0; i < myArray.length; i++){
 // --------------------5) Create a function that takes in a set of any two numbers and subtracts the smaller number from the larger number using the sets of test variables provided below. Expected output: 42, 3
 
 // Pseudo:
+// create a function called "answer"
+// create inputs input1 and input2 for the parameters
+// create a return of input1 subtracting input2
+// create a console.log to output the "answer" function and input the variables
+
 
 
 // Set one:
