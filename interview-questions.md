@@ -15,41 +15,52 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
 1. What is git? What is the difference between git and Github?
 
-  Your answer:
+  Your answer: Github is an open source hub for files, git is the program that makes gitHub possible
 
-  Researched answer:
+  Researched answer: Github is a platform used for version control and collaboration with code. Git is a DevOps tool that is used for source code management and is used for keeping track of source code changes.
 
 
 
 2. Which JavaScript operators will return a Boolean value?
 
-  Your answer:
+  Your answer: The operators used to return a Boolean value are ">" "<" "==" "===" ">=" "<="
 
-  Researched answer:
+  Researched answer: Boolean expressions, relational operators, equality operators and logical operators output a Boolean value.
+
+  Boolean Expressions: true, false
+
+  Relational Operators: ">", "<", ">=", "<="
+
+  Equality Operators: "==", "==="
+  Logical Operators: "&&", "||", "!true", "!false", "!=", "!(true && false)", "!(true && true)"
+
 
 
 
 3. What is an index? What is the difference between index and value?
 
-  Your answer:
+  Your answer: An index is the location of an element in an array or a character in a string. The difference between an index and a value is that an index is the location, and value is what it contains.
 
-  Researched answer:
+  Researched answer: The index is the position of a specified value. The value is what is within a variable or equal to a variable.
+
+
+
 
 
 
 4. What is iteration?
 
-  Your answer:
+  Your answer: Iteration is continuous similar to looping until something stops it.
 
-  Researched answer:
+  Researched answer: Iteration in Javascript is a code that repeats until a condition is met. These loops are continuously executed to perform specific tasks.
 
 
 
 5. Give a brief description of proper pair programming techniques. What are the roles of each person?
 
-  Your answer:
+  Your answer: Pair Programming is where two programmers are switching off writing code and directing. Programmer 1 who is coding types, while Programmer 2 directs Programmer 1 on what to type, fix errors, and research the best way to go about a problem. The programmers will then switch so both are exposed to the benefits that the two roles provide.
 
-  Researched answer:
+  Researched answer: Proper pair programming techniques include having a good headset for clear communication, collaboration through slack, taking breaks, starting with something easy, switching roles regularly, and minimizing distractions.
 
 
 
